@@ -1,0 +1,5 @@
+{
+  "name": "Snap Booth - Browser Photobooth",
+  "description": "A browser-based photobooth with custom frames, 3-second countdown, and instant download/print.",
+  "requestFramePermissions": ["camera"]
+}
